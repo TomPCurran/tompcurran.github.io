@@ -1,2 +1,3 @@
-# Tom Curran,  Data Scientist
-Personal Page for Tom Curran
+# Tom Curran, Data Scientist
+
+Repo for personal page
