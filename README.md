@@ -1,2 +1,2 @@
-# Tom Curran, Data Scientist
+# Tom Curran,  Data Scientist
 Personal Page for Tom Curran
