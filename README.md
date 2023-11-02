@@ -1,2 +1,2 @@
-# tompcurran.github.io
+# Tom Curran, Data Scientist
 Personal Page for Tom Curran
